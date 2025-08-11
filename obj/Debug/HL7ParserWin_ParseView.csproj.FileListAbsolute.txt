@@ -1,0 +1,24 @@
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.csproj.CoreCompileInputs.cache
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.csproj.AssemblyReference.cache
+C:\Users\REX\Downloads\HL7ParserViewer\bin\Debug\HL7ParserWin_ParseView.exe.config
+C:\Users\REX\Downloads\HL7ParserViewer\bin\Debug\HL7ParserWin_ParseView.exe
+C:\Users\REX\Downloads\HL7ParserViewer\bin\Debug\HL7ParserWin_ParseView.pdb
+C:\Users\REX\Downloads\HL7ParserViewer\bin\Debug\NHapi.Model.V251.dll
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.csproj.CopyComplete
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.exe
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.pdb
+C:\Users\REX\Downloads\HL7ParserViewer\bin\Debug\nhapi.base.dll
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.Forms.MainForm.resources
+C:\Users\REX\Downloads\HL7ParserViewer\obj\Debug\HL7ParserWin_ParseView.csproj.GenerateResource.cache
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\bin\Debug\HL7ParserWin_ParseView.exe
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\bin\Debug\nhapi.base.dll
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\bin\Debug\NHapi.Model.V251.dll
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\bin\Debug\HL7ParserWin_ParseView.exe.config
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\obj\Debug\HL7ParserWin_ParseView.Forms.MainForm.resources
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\obj\Debug\HL7ParserWin_ParseView.csproj.GenerateResource.cache
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\obj\Debug\HL7ParserWin_ParseView.csproj.CoreCompileInputs.cache
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\obj\Debug\HL7ParserWin_ParseView.csproj.CopyComplete
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\obj\Debug\HL7ParserWin_ParseView.exe
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\obj\Debug\HL7ParserWin_ParseView.pdb
+C:\Users\REX\Downloads\HL7ParserViewer OKKK\bin\Debug\HL7ParserWin_ParseView.pdb

@@ -1,0 +1,4 @@
+MSH|^~\&|SendingApp|SendingFac|ReceivingApp|ReceivingFac|202501011200||ADT^A01|MSG00001|P|2.5.1
+PID|1||123456^^^Hospital^MR||Doe^John||19800101|M|||123 Main St^^Metropolis^NY^10001||555-1234
+PV1|1|I|Ward^123^1^A||||1234^Smith^John|||||||||||A0
+ORC|NW|12345|||||202501011230|||1111^Adams^Alice|||2222^Baker^Bob
