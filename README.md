@@ -1,7 +1,4 @@
-import zipfile
-
-# Re-create the README.md content
-readme_content = """# HL7 Parser WinForms Application
+# HL7 Parser WinForms Application
 
 ## Overview
 This application is a Windows Forms-based HL7 Parser built for .NET Framework 4.6 and Visual Studio 2019.
@@ -56,3 +53,44 @@ The UI uses dockable panels (via WeifenLuo DockPanel Suite) so you can rearrange
 
 ## VMD.ini Example
 Located in `/VMD/`:
+```
+; LogicalName = HL7 Path
+MSHSendingApp = /MSH-3
+MSHSendingFacility = /MSH-4
+MSHReceivingApp = /MSH-5
+MSHReceivingFacility = /MSH-6
+PIDMedRec = /PID-3
+PIDFamilyName = /PID-5-1
+PIDGivenName = /PID-5-2
+RXEGiveCodeText = /RXE-3-2
+RXEGiveCodeID = /RXE-3-1
+```
+
+## Usage
+1. Build the solution in Visual Studio 2019.
+2. Run `HL7ParserWin_ParseView.exe`.
+3. Use Paste Message to insert your HL7 text.
+4. Click Get VMD to load mappings from `/VMD/VMD.ini`.
+5. Click Parse:
+   - Message View: Raw HL7 message (wrapped).
+   - Parse View: Formatted structured output.
+   - Tree View: Hierarchical view of segments.
+6. Rearrange panels as desired — layout persists until cleared.
+7. Clear to reset and start again.
+
+## Example HL7 Message
+```
+MSH|^~\&|FrameworkLTC|DHPH|FW-TP-CST-LK|DCTIPU|20230615161633||RDE^O11^RDE_O11|67080|P|2.5||||||ASCII|||
+PID|1||DCTIPU\F\1872||Ward^Creston^^^^^D|DCCST00039903|19511002000000|M|||351 Deers Head Hospital Rd^^Salisbury^MD^21801||(410)572-6166|||||39903||||||||||||N|||||||||
+...
+```
+
+## Shortcuts
+- Ctrl+V in Message View also pastes HL7 message.
+- Click a Tree Node → highlights corresponding segment in Message View.
+- Edit Parse View freely to adjust output before saving.
+
+## Future Enhancements
+- Save/restore dock layout between sessions.
+- Batch parsing for multiple HL7 messages in one file.
+- Full support for custom Z-segments in Parse View.
